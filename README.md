@@ -1,1 +1,1 @@
-# A_simple_Chat_App
+# A simple Chat App using html, JS and socket.io
